@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^20.12.12",
+    "execa": "^9.1.0",
+    "jsdom": "^24.0.0",
+    "puppeteer": "^22.8.2"
+  }
+}
