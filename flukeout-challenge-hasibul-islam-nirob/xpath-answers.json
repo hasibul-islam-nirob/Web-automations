@@ -1,0 +1,17 @@
+[
+    "plate",
+    "bento",
+    "//plate/apple",
+    "//*",
+    "//*/apple",
+    "//*[@id='fancy']",
+    "//plate/apple",
+    "//*[@id='fancy']/pickle",
+    "//*[contains(@class,'small')]",
+    "//orange[contains(@class,'small')]",
+    "//bento/orange[contains(@class,'small')]",
+    "//plate|//bento",
+    "//plate/*",
+    "//plate/following-sibling::apple",
+    "//plate/preceding-sibling::pickle"
+]
