@@ -1,0 +1,15 @@
+[
+    {
+        "domain": "nuxt3-realworld-example-app.vercel.app",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "auth",
+        "path": "/",
+        "sameSite": "unspecified",
+        "secure": false,
+        "session": true,
+        "storeId": "0",
+        "value": "%7B%22currentUser%22%3A%7B%22email%22%3A%22nirobshikder2016%40gmail.com%22%2C%22username%22%3A%22hinirob%22%2C%22bio%22%3Anull%2C%22image%22%3A%22https%3A%2F%2Fapi.realworld.io%2Fimages%2Fsmiley-cyrus.jpeg%22%2C%22token%22%3A%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoyODYyMX0sImlhdCI6MTcxNjM3MTIwNywiZXhwIjoxNzIxNTU1MjA3fQ.-93rfZ8zidAKGX5xaCk_3jFXrqtuvloRe3mddCwy2vg%22%7D%7D",
+        "id": 1
+    }
+]
